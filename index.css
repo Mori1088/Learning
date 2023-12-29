@@ -1,0 +1,29 @@
+P {
+    color: rebeccapurple;
+}
+
+#para1 {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+    color: blue;
+}
+
+h1.left {
+    text-align: left;
+}
+
+p.center {
+    text-align: center;
+    color: red;
+  }
+  
+  p.large {
+    font-size: 300%;
+  }
+
+  * {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
